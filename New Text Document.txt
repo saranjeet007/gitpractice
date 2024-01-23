@@ -1,6 +1,6 @@
 <html>
 <body>
-<p> This is my first para for git learning</p>
+<p> This is my first parar for git learning</p>
 </body>
 
 </html>
